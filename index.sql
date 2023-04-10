@@ -1,4 +1,8 @@
 --CREATING  TABLE IN SQL
+create Database data_entry;
+
+
+
 
 Create table users (
     Num_id int(20) auto_increment not null,
