@@ -1,5 +1,5 @@
 --CREATING  TABLE IN SQL
-create Database data_entry;
+create Database data_entry; 
 
 
 
