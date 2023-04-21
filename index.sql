@@ -21,4 +21,5 @@ create table data (
     mypassword varchar(20) not null,
     primary key (Num_id)
 
-);
+); 
+insert into users (firstname,lastname,email,mypassword) values ('admin','admin')
