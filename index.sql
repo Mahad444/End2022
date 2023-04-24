@@ -22,4 +22,5 @@ create table data (
     primary key (Num_id)
 
 ); 
-insert into users (firstname,lastname,email,mypassword) values ('admin','admin')
+insert into users (firstname,lastname,email,mypassword) 
+values ('mahad','said','saidmahad@gmail.com','1234')
